@@ -23,9 +23,9 @@
 
    // main directions
    map = new GMaps({
-      el: '#map', lat: 28.571198, lng: 77.325850, zoom: 14, zoomControl : true,
+      el: '#map', lat: 28.5710227, lng: 77.3262473, zoom: 14, zoomControl : true,
       zoomControlOpt: { style : 'SMALL', position: 'TOP_LEFT' }, panControl : false, scrollwheel: false
-   }); 
+   });
 
    // add address markers
    map.addMarker({ lat: 28.571198, lng: 77.325850, title: 'Our Branch Office',

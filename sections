@@ -1,0 +1,199 @@
+
+   <!-- Services Section
+   ================================================== -->
+   <section id="services">
+
+      <div class="row section-head">
+
+         <div class="col one-third">
+            <h2>Services</h2>
+            <p class="desc">Our list of awesome services.</p>
+         </div>
+
+         <div class="col two-thirds">
+            <div class="intro">
+             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+              deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+              At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.
+              </p>
+            </div>
+         </div>
+
+      </div>
+
+      <div class="row">
+
+         <div class="services-wrapper">
+
+            <div class="col">
+               <h2><i class="icon-desktop"></i>Webdesign</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et molestias iusto odio dignissimos.</p>
+            </div>
+
+            <div class="col">
+               <h2><i class="icon-star"></i>Branding</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et iusto odio dignissimos.</p>
+            </div>
+
+            <div class="col m-first">
+               <h2><i class="icon-camera"></i>Photography</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti quos dolores et molestias quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et iusto odio dignissimos.</p>
+            </div>
+
+            <div class="col first">
+               <h2><i class="icon-globe"></i>Web Development</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et iusto odio molestias dignissimos.</p>
+            </div>
+
+            <div class="col m-first">
+               <h2><i class=" icon-list-alt"></i>User Interface</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et iusto odio dignissimos.</p>
+            </div>
+
+            <div class="col">
+               <h2><i class="icon-print"></i>Printing</h2>
+               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+               deleniti atque corrupti molestias quos dolores et quas molestias excepturi sint occaecati cupiditate.
+               At vero eos et accusamus et iusto odio dignissimos.</p>
+            </div>
+
+         </div> <!-- Services-Wrapper End -->
+
+      </div> <!--end row -->
+
+   </section> <!-- Services Section End -->
+
+
+   
+   <!-- Journal Section
+   ================================================== -->
+   <section id="journal">
+
+      <div class="row section-head">
+         <div class="col full">
+            <h2>Journal</h2>
+            <p class="desc">Our latest posts and rants.</p>
+         </div>
+      </div>
+
+      <!-- Blog Entries -->
+      <div class="blog-entries">
+
+         <!-- Entry -->
+         <article class="entry">
+
+            <div class="row entry-header">
+
+               <div class="author-image">
+                  <img src="images/user-03.png" alt="Sakura Haruno" />
+               </div>
+
+               <div class="col g-9 offset-1 entry-title">
+                  <h3><a href="blog-single.html">Proin gravida nibh vel velit auctor aliquet Aenean sollicitudin auctor.</a></h3>
+               </div>
+
+               <div class="col g-2">
+                  <p class="post-meta">
+                     <time pubdate="" class="post-date" datetime="2013-08-19">Aug 19, 2013</time>
+                     <span class="dauthor">By Sakura Haruno</span>
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="row">
+
+               <div class="col g-9 offset-1 post-content">
+                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+                  deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.
+                  <a href="blog-single.html" class="more-link">Read More<i class="icon-angle-right"></i></a></p>
+               </div>
+
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="entry">
+
+            <div class="row entry-header">
+
+               <div class="author-image">
+                  <img src="images/user-03.png" alt="John Doe" />
+               </div>
+
+               <div class="col g-9 offset-1 entry-title">
+                  <h3><a href="blog-single.html">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed.</a></h3>
+               </div>
+
+               <div class="col g-2">
+                  <p class="post-meta">
+                     <time pubdate="" class="post-date" datetime="2013-08-09">Aug 9, 2013</time>
+                     <span class="dauthor">By John Doe</span>
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="row">
+
+               <div class="col g-9 offset-1 post-content">
+                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+                  deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.
+                  <a href="blog-single.html" class="more-link">Read More<i class="icon-angle-right"></i></a></p>
+               </div>
+
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="entry">
+
+            <div class="row entry-header">
+
+               <div class="author-image">
+                  <img src="images/user-03.png" alt="Naruto Uzumaki" />
+               </div>
+
+               <div class="col g-9 offset-1 entry-title">
+                  <h3><a href="blog-single.html">Quis autem vel esse eum iure reprehenderit qui in ea voluptate velit esse.</a></h3>
+               </div>
+
+               <div class="col g-2">
+                  <p class="post-meta">
+                     <time pubdate="" class="post-date" datetime="2013-08-07">Aug 7, 2013</time>
+                     <span class="dauthor">By Naruto Uzumaki</span>
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="row">
+
+               <div class="col g-9 offset-1 post-content">
+                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+                  deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.
+                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.
+                  <a href="blog-single.html" class="more-link">Read More<i class="icon-angle-right"></i></a></p>
+               </div>
+
+            </div>
+
+         </article> <!-- Entry End -->
+
+      </div> <!-- Blog Entries End -->
+
+   </section>  <!-- Journal Section End -->

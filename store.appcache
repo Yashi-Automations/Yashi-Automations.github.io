@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# v1.0 2018-01-31
+/css/font-awesome/css/font-awesome.min.css
+/css/base.css
+/css/fonts.css
+/css/layout.css
+
+/js/gmaps.js
+/js/skel.min.js
+/js/init.js
+/js/jquery.flexslider.js
+/js/jquery.reveal.js
+/js/jquery.scrollzer.min.js
+/js/ie/jquery-1.10.2.min.js
+/js/ie/jquery-migrate-1.2.1.min
+/js/scrollspy.js
+/js/smoothscrolling.js
+
