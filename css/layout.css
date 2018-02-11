@@ -409,9 +409,10 @@ ul#nav li.active a { color: #11ABB0; }
 	text-transform: uppercase;
    letter-spacing: 3px;
    cursor: pointer;
+   margin-left: 25px;
 }
 .reveal-modal a:hover {	color: #00CCCC; }
-.reveal-modal a.close-reveal-modal { margin-left: 28px; }
+.reveal-modal a.close-reveal-modal { margin-top: 5px; float:right; }
 
 
 /* ================================================================== */
